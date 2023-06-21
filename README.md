@@ -1,6 +1,5 @@
 # apresentação  
 Leonardo Painko da Paz  
-Aprendendo: python  
+Aprendendo: javascript  
 Linguagens já aprendidas:  
 SPOJ:https://www.spoj.com/users/ilikepies/  
-Portifólio:  
